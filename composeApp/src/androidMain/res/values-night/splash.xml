@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">#41382C</item>
+        <item name="windowSplashScreenBackground">@color/bg_splash</item>
         <item name="postSplashScreenTheme">@android:style/Theme.Material.Light.NoActionBar</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/th_coffee_logo</item>
     </style>
