@@ -1,6 +1,5 @@
-package org.example.coffeeshopkmp
+package com.tahadeta.coffeeshopkmp
 
-import android.R
 import android.os.Bundle
 import android.os.Handler
 import androidx.activity.ComponentActivity

@@ -1,4 +1,4 @@
-package org.example.coffeeshopkmp
+package com.tahadeta.coffeeshopkmp
 
 interface Platform {
     val name: String

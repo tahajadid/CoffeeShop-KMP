@@ -1,4 +1,4 @@
-package org.example.coffeeshopkmp
+package com.tahadeta.coffeeshopkmp
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
