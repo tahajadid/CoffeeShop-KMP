@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231097145296",
+    "project_id": "coffeeshop-kmp",
+    "storage_bucket": "coffeeshop-kmp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231097145296:android:2ce74bca1af2a8bcee0bd5",
+        "android_client_info": {
+          "package_name": "com.tahadeta.coffeeshopkmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUozJRmjPCONjRbNgwdXrfn7DVUd5ZaYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
