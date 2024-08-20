@@ -1,4 +1,4 @@
-package org.example.coffeeshopkmp
+package com.tahadeta.coffeeshopkmp
 
 class Greeting {
     private val platform = getPlatform()

@@ -4,6 +4,6 @@
     <style name="Theme.MyApp.MySplash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/bg_splash</item>
         <item name="postSplashScreenTheme">@android:style/Theme.Material.Light.NoActionBar</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/th_coffee_logo</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/th_coffee_logo_image</item>
     </style>
 </resources>
