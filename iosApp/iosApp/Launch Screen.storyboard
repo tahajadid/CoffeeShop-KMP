@@ -5,7 +5,6 @@
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
-        <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -26,7 +25,7 @@
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" name="splash_bg_color"/>
                         <constraints>
                             <constraint firstItem="D3M-L2-XfD" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="ccp-GR-taQ"/>
                             <constraint firstItem="D3M-L2-XfD" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="iB1-WH-Q3Y"/>
@@ -42,8 +41,8 @@
     </scenes>
     <resources>
         <image name="AdaptativeLogo" width="818" height="695"/>
-        <systemColor name="systemBackgroundColor">
-            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
+        <namedColor name="splash_bg_color">
+            <color red="0.81960784313725488" green="0.66274509803921566" blue="0.49019607843137253" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
     </resources>
 </document>
